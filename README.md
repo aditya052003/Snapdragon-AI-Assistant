@@ -20,27 +20,35 @@ Snapdragon AI Assistant brings multiple AI productivity tools into one clean int
 
 ## 🖥️ Demo
 
-Add screenshots or a demo recording to this section.
+### 💬 AI Chat
 
-Suggested screenshots:
+Ask questions and get responses from the local AI model.
 
-```text
-screenshots/
-├── home.png
-├── ai-chat.png
-├── pdf-summary.png
-├── code-assistant.png
-└── voice-input.png
-```
-
-Then add them to this README using:
-
-```markdown
 ![AI Chat](screenshots/ai-chat.png)
-![PDF Summarizer](screenshots/pdf-summary.png)
-![Code Assistant](screenshots/code-assistant.png)
-```
 
+### 📄 PDF Summarizer
+
+Upload a PDF and generate an AI-powered document summary.
+
+![PDF Summarizer](screenshots/pdf-summary.png)
+
+### 💻 Code Assistant
+
+Ask programming questions, request code, or get explanations.
+
+![Code Assistant](screenshots/code-assistant.png)
+
+### 🎙️ Voice Input
+
+Use browser-based voice input to speak your prompts.
+
+![Voice Input](screenshots/voice-input.png)
+
+### 🔎 Chat History & Search
+
+Save conversations and search previous chats.
+
+![Chat History](screenshots/chat-history.png)
 ## 🏗️ Architecture
 
 ```mermaid
